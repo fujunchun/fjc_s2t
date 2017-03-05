@@ -1,0 +1,15 @@
+{
+  "name": "fjc_s2t",
+  "version": "1.0.0",
+  "description": "简体中文转繁体",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "glob": "^7.1.1",
+    "simplebig": "0.0.3"
+  }
+}
